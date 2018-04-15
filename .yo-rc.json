@@ -1,0 +1,7 @@
+{
+  "@cognite/generator-create-react-redux-app": {
+    "promptValues": {
+      "authorName": ""
+    }
+  }
+}
